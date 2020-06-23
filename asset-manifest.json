@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/deploy-react/static/css/main.535f4672.chunk.css",
-    "main.js": "/deploy-react/static/js/main.e5cd3ee1.chunk.js",
-    "main.js.map": "/deploy-react/static/js/main.e5cd3ee1.chunk.js.map",
-    "runtime-main.js": "/deploy-react/static/js/runtime-main.679a13d3.js",
-    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.679a13d3.js.map",
-    "static/js/2.d630f2ff.chunk.js": "/deploy-react/static/js/2.d630f2ff.chunk.js",
-    "static/js/2.d630f2ff.chunk.js.map": "/deploy-react/static/js/2.d630f2ff.chunk.js.map",
-    "index.html": "/deploy-react/index.html",
-    "precache-manifest.01e056f911aa3f247e02af5c786cdef6.js": "/deploy-react/precache-manifest.01e056f911aa3f247e02af5c786cdef6.js",
-    "service-worker.js": "/deploy-react/service-worker.js",
-    "static/css/main.535f4672.chunk.css.map": "/deploy-react/static/css/main.535f4672.chunk.css.map",
-    "static/js/2.d630f2ff.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.d630f2ff.chunk.js.LICENSE.txt"
+    "main.css": "/optify-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/optify-website/static/js/main.fd6b8a4a.chunk.js",
+    "main.js.map": "/optify-website/static/js/main.fd6b8a4a.chunk.js.map",
+    "runtime-main.js": "/optify-website/static/js/runtime-main.3dee113c.js",
+    "runtime-main.js.map": "/optify-website/static/js/runtime-main.3dee113c.js.map",
+    "static/js/2.89fa3f63.chunk.js": "/optify-website/static/js/2.89fa3f63.chunk.js",
+    "static/js/2.89fa3f63.chunk.js.map": "/optify-website/static/js/2.89fa3f63.chunk.js.map",
+    "index.html": "/optify-website/index.html",
+    "precache-manifest.46ba0635725aebcf10d1d08b55726be4.js": "/optify-website/precache-manifest.46ba0635725aebcf10d1d08b55726be4.js",
+    "service-worker.js": "/optify-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/optify-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.89fa3f63.chunk.js.LICENSE.txt": "/optify-website/static/js/2.89fa3f63.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/optify-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.679a13d3.js",
-    "static/js/2.d630f2ff.chunk.js",
-    "static/css/main.535f4672.chunk.css",
-    "static/js/main.e5cd3ee1.chunk.js"
+    "static/js/runtime-main.3dee113c.js",
+    "static/js/2.89fa3f63.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fd6b8a4a.chunk.js"
   ]
 }
