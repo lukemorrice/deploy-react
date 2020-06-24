@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c565bbe89bdfe9a54daa8da20f6fe7f",
+    "revision": "e0c7db19ca704b96c8d9a15818ec53a6",
     "url": "/optify-website/index.html"
   },
   {
-    "revision": "347f7b418cfe4d10368b",
-    "url": "/optify-website/static/css/main.0a45571d.chunk.css"
+    "revision": "4563bc212791d5eaa566",
+    "url": "/optify-website/static/css/main.06f89b03.chunk.css"
   },
   {
     "revision": "c7501310c1d2ea1f6468",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/optify-website/static/js/2.fd27d93d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "347f7b418cfe4d10368b",
-    "url": "/optify-website/static/js/main.a9a3c26f.chunk.js"
+    "revision": "4563bc212791d5eaa566",
+    "url": "/optify-website/static/js/main.4d85c794.chunk.js"
   },
   {
     "revision": "b3563fe0b6191598bd26",

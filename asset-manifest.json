@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/optify-website/static/css/main.0a45571d.chunk.css",
-    "main.js": "/optify-website/static/js/main.a9a3c26f.chunk.js",
-    "main.js.map": "/optify-website/static/js/main.a9a3c26f.chunk.js.map",
+    "main.css": "/optify-website/static/css/main.06f89b03.chunk.css",
+    "main.js": "/optify-website/static/js/main.4d85c794.chunk.js",
+    "main.js.map": "/optify-website/static/js/main.4d85c794.chunk.js.map",
     "runtime-main.js": "/optify-website/static/js/runtime-main.3dee113c.js",
     "runtime-main.js.map": "/optify-website/static/js/runtime-main.3dee113c.js.map",
     "static/js/2.fd27d93d.chunk.js": "/optify-website/static/js/2.fd27d93d.chunk.js",
     "static/js/2.fd27d93d.chunk.js.map": "/optify-website/static/js/2.fd27d93d.chunk.js.map",
     "index.html": "/optify-website/index.html",
-    "precache-manifest.f6610963b49e58271ea19e667fd93a04.js": "/optify-website/precache-manifest.f6610963b49e58271ea19e667fd93a04.js",
+    "precache-manifest.93c21f8b19ba2eab0c397d359a3c8e67.js": "/optify-website/precache-manifest.93c21f8b19ba2eab0c397d359a3c8e67.js",
     "service-worker.js": "/optify-website/service-worker.js",
-    "static/css/main.0a45571d.chunk.css.map": "/optify-website/static/css/main.0a45571d.chunk.css.map",
+    "static/css/main.06f89b03.chunk.css.map": "/optify-website/static/css/main.06f89b03.chunk.css.map",
     "static/js/2.fd27d93d.chunk.js.LICENSE.txt": "/optify-website/static/js/2.fd27d93d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3dee113c.js",
     "static/js/2.fd27d93d.chunk.js",
-    "static/css/main.0a45571d.chunk.css",
-    "static/js/main.a9a3c26f.chunk.js"
+    "static/css/main.06f89b03.chunk.css",
+    "static/js/main.4d85c794.chunk.js"
   ]
 }
