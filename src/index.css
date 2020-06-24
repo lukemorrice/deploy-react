@@ -42,3 +42,7 @@ ul.header li a {
 .active {
 	background-color: #64b5f6;
 }
+
+.home .active {
+	border-radius: 20px;
+}
