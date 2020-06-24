@@ -14,11 +14,7 @@ class Main extends Component {
 					<h1 style={{ color: "white", fontSize: 60 }}>Optify</h1>
 					<ul className="header">
 						<li id="home">
-							<NavLink
-								exact
-								to="/"
-								style={{ borderTopLeftRadius: 18, borderBottomLeftRadius: 18 }}
-							>
+							<NavLink exact to="/">
 								Home
 							</NavLink>
 						</li>
